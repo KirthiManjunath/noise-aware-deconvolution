@@ -1,0 +1,21 @@
+crop: 256
+eps_band: 0.001
+gauss_noise:
+- 0.005
+- 0.01
+- 0.02
+- 0.05
+poisson_peaks:
+- 30
+- 100
+- 300
+psf_sigmas:
+- 1.5
+- 2.5
+- 4.0
+seeds:
+- 0
+- 1
+- 2
+- 3
+- 4
