@@ -1,0 +1,6 @@
+,background_noise_ratio,background_noise_ratio,background_noise_ratio,lateral_mtf50,lateral_mtf50,lateral_mtf50
+,mean,std,max,mean,std,max
+method,,,,,,
+proposed,1.02,0.205,1.252,0.179,0.014,0.192
+tikhonov_gcv,3.897,6.957,21.97,0.204,0.064,0.348
+wiener_const,1.453,0.079,1.543,0.212,0.0,0.212

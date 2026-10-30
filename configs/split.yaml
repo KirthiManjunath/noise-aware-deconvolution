@@ -1,0 +1,52 @@
+dev:
+  subset: WideField_BPAE_B
+  fovs:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  - 7
+  - 8
+  - 9
+  - 10
+  - 11
+  - 12
+  - 13
+  - 14
+  - 15
+  - 16
+  - 17
+  - 18
+  used_for_tuning:
+  - 1
+  - 2
+  - 3
+test_synthetic:
+  subsets:
+  - Confocal_BPAE_B
+  - TwoPhoton_MICE
+  fov: 19
+  crops: 4 quadrants of 256x256
+test_real_fmd:
+  subsets:
+  - Confocal_BPAE_B
+  - TwoPhoton_MICE
+  fov: 19
+  raw_frame: 0
+  reference: avg50
+real_oct:
+- DRUSEN-2403178-6.jpeg
+- DRUSEN-364469-4.jpeg
+- DRUSEN-732516-2.jpeg
+- DRUSEN-8261063-7.jpeg
+- NORMAL-2011412-1.jpeg
+- NORMAL-2733663-1.jpeg
+- NORMAL-3300015-1.jpeg
+- NORMAL-3354044-1.jpeg
+- NORMAL-395557-1.jpeg
+- NORMAL-438684-3.jpeg
+- NORMAL-446851-2.jpeg
+- NORMAL-4790999-1.jpeg
+- NORMAL-697826-1.jpeg
